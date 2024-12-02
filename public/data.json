@@ -1,0 +1,138 @@
+{
+  "categories": [
+    "Electronics",
+    "Clothing",
+    "Books",
+    "Home & Kitchen",
+    "Sports & Outdoors",
+    "Toys & Games"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1200.99,
+      "description": "This laptop offers excellent performance, equipped with 16GB of RAM and a 512GB SSD. It's ideal for multitasking, gaming, and office tasks, featuring a sleek and portable design."
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99,
+      "description": "This cutting-edge smartphone includes 128GB of storage, an advanced camera system, and 5G support, ensuring a fast and smooth user experience, perfect for multimedia consumption."
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt",
+      "category": "Clothing",
+      "price": 19.99,
+      "description": "This high-quality cotton t-shirt is available in various colors and sizes. It's perfect for everyday wear, featuring a relaxed fit that ensures comfort throughout the day."
+    },
+    {
+      "id": 4,
+      "name": "Jeans",
+      "category": "Clothing",
+      "price": 49.99,
+      "description": "These stylish jeans feature a slim fit and are made from high-quality denim. They can be paired with various types of clothing to create both casual and smart outfits."
+    },
+    {
+      "id": 5,
+      "name": "The Great Gatsby",
+      "category": "Books",
+      "price": 10.99,
+      "description": "The Great Gatsby, written by F. Scott Fitzgerald, explores themes of love, wealth, and corruption in American society during the 1920s. It's a compelling story that delves into the darker side of the American Dream."
+    },
+    {
+      "id": 6,
+      "name": "1984",
+      "category": "Books",
+      "price": 8.99,
+      "description": "1984 is a powerful dystopian novel that examines the dangers of totalitarianism and the importance of individual thought. It's a thought-provoking read that remains relevant today."
+    },
+    {
+      "id": 7,
+      "name": "Blender",
+      "category": "Home & Kitchen",
+      "price": 99.99,
+      "description": "This high-power blender comes with multiple speed settings, making it perfect for creating smoothies, soups, and sauces. It's easy to use and clean, making it a must-have for any kitchen."
+    },
+    {
+      "id": 8,
+      "name": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "price": 59.99,
+      "description": "This programmable coffee maker has a 12-cup capacity and features an easy-to-use interface. It brews delicious coffee, making it perfect for coffee lovers and busy mornings."
+    },
+    {
+      "id": 9,
+      "name": "Running Shoes",
+      "category": "Sports & Outdoors",
+      "price": 69.99,
+      "description": "These lightweight running shoes are designed for optimal performance and comfort during your workouts. They feature breathable materials and cushioning for enhanced support."
+    },
+    {
+      "id": 10,
+      "name": "Yoga Mat",
+      "category": "Sports & Outdoors",
+      "price": 29.99,
+      "description": "This non-slip yoga mat is perfect for all types of workouts, providing excellent support and stability. It's made from durable materials and is easy to clean, making it ideal for regular use."
+    },
+    {
+      "id": 11,
+      "name": "Action Figure",
+      "category": "Toys & Games",
+      "price": 14.99,
+      "description": "This collectible action figure features a detailed design and is perfect for fans of all ages. It's a great addition to any collection or as a gift for enthusiasts."
+    },
+    {
+      "id": 12,
+      "name": "Board Game",
+      "category": "Toys & Games",
+      "price": 39.99,
+      "description": "This fun board game is ideal for family game nights and can be enjoyed by both kids and adults. It promotes interaction and strategic thinking, making it a great choice for all ages."
+    },
+    {
+      "id": 13,
+      "name": "Microwave Oven",
+      "category": "Home & Kitchen",
+      "price": 89.99,
+      "description": "This compact microwave oven offers multiple power levels and cooking settings, making it versatile for reheating and cooking various meals. It's perfect for any kitchen size."
+    },
+    {
+      "id": 14,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "These noise-cancelling headphones deliver high-quality sound and comfort. They're perfect for listening to music, podcasts, or for immersive gaming experiences."
+    },
+    {
+      "id": 15,
+      "name": "Sweater",
+      "category": "Clothing",
+      "price": 39.99,
+      "description": "This warm wool sweater is perfect for cold weather. It features a stylish design and provides comfort and warmth, making it a great choice for winter outings."
+    },
+    {
+      "id": 16,
+      "name": "Cookbook",
+      "category": "Books",
+      "price": 24.99,
+      "description": "This cookbook is filled with a variety of delicious recipes that cater to all tastes. It's perfect for both novice cooks and experienced chefs looking for new culinary inspiration."
+    },
+    {
+      "id": 17,
+      "name": "Tent",
+      "category": "Sports & Outdoors",
+      "price": 129.99,
+      "description": "This waterproof camping tent can comfortably accommodate up to 4 persons. It's designed for easy setup and provides excellent protection against the elements, making it ideal for outdoor adventures."
+    },
+    {
+      "id": 18,
+      "name": "Laptop Stand",
+      "category": "Electronics",
+      "price": 29.99,
+      "description": "This adjustable laptop stand helps improve your ergonomics while working. It promotes better posture and reduces neck strain, making it a great addition to any workspace."
+    }
+  ]
+}
